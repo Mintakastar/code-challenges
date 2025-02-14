@@ -107,9 +107,6 @@ public class Solution {
 
         }
 
-
-
-
         return swapNum;
     }
 
