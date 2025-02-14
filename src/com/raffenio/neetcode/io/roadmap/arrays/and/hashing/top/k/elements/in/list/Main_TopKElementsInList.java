@@ -1,4 +1,4 @@
-package com.raffenio.roadmap.arrays.and.hashing.top.k.elements.in.list;
+package com.raffenio.neetcode.io.roadmap.arrays.and.hashing.top.k.elements.in.list;
 
 import java.util.*;
 import java.util.stream.Collectors;
