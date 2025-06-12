@@ -3,7 +3,7 @@ package com.raffenio.hackerrank.com.interview.preparation.kit.arrays.minimum.swa
 
 /*
 * Minimum Swaps 2
-* Exercice: https://www.hackerrank.com/challenges/minimum-swaps-2
+* Exercise: https://www.hackerrank.com/challenges/minimum-swaps-2
 * */
 public class MinimumSwaps2 {
     public static void main(String[] args) {
