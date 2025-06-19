@@ -44,10 +44,10 @@ public class Solution {
         System.out.println("Sorting Algorithm");
         a.sort(Integer::compareTo);
         for (int i = 0; i < a.size(); i++) {
-            if(i==a.size()-1){
+            if(i==a.size()-1){ // si llego al final
                 return a.get(i);
             }
-            if( a.get(i) != a.get(i+1)){
+            if( a.get(i) != a.get(i+1)){  //si son diferentes
                 return a.get(i);
             }else{
                 i++; // skip the next one since it's the same
