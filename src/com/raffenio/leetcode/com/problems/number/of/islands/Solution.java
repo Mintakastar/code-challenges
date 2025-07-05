@@ -45,11 +45,13 @@ class Solution {
             cell == ' '  visited
 
      */
-    private boolean checkIslandIfs(char cell , int i, int j, char[][] grid){
+    private boolean /*dfs*/ checkIslandIfs(char cell , int i, int j, char[][] grid){
         boolean isIsland=false;
 
         if(cell == '1'){
             isIsland = true;
+
+            //if valida los rangos
 
             //mark current cell as visited
             grid[i][j] = ' ';
