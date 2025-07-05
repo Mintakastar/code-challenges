@@ -10,4 +10,13 @@
 
 ### Number of Island [Leet Code: Number of Island](https://leetcode.com/problems/number-of-islands)
 
+### Sort Colors [Leet Code: Sort Colors](https://leetcode.com/problems/sort-colors/)
 
+
+
+# Code Challenges sessions with friends:
+
+## Sort Colors
+### July 04 2025
+### Description: [Leet Code: Sort Colors](https://leetcode.com/problems/sort-colors/)
+### Solution:  [GitHub: Sort Colors](https://github.com/Mintakastar/code-challenges/blob/main/src/com/raffenio/leetcode/com/problems/sort/colors/Solution.java)
