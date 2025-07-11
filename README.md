@@ -13,10 +13,19 @@
 ### Sort Colors [Leet Code: Sort Colors](https://leetcode.com/problems/sort-colors/)
 
 
+### Container With Most Water [Leet Code: Sort Colors](https://leetcode.com/problems/container-with-most-water/)
+
+
 
 # Code Challenges sessions with friends:
 
-## Sort Colors
+## - Sort Colors
 ### July 04 2025
 ### Description: [Leet Code: Sort Colors](https://leetcode.com/problems/sort-colors/)
 ### Solution:  [GitHub: Sort Colors](https://github.com/Mintakastar/code-challenges/blob/main/src/com/raffenio/leetcode/com/problems/sort/colors/Solution.java)
+
+## - Container With Most Water
+### July 11 2025
+### Description: [Leet Code: Sort Colors](https://leetcode.com/problems/container-with-most-water/)
+### Solution:  TBD
+
