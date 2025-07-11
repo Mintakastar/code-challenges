@@ -27,5 +27,5 @@
 ## - Container With Most Water
 ### July 11 2025
 ### Description: [Leet Code: Sort Colors](https://leetcode.com/problems/container-with-most-water/)
-### Solution:  TBD
-
+### Solution:   [GitHub: Container With Most Water](https://github.com/Mintakastar/code-challenges/blob/main/src/com/raffenio/leetcode/com/problems/container/with/most/water/ContainerWithMostWaterSolution.java)
+    
