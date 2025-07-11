@@ -3,7 +3,7 @@ package com.raffenio.leetcode.com.problems.container.with.most.water;
 public class ContainerWithMostWaterSolution {
 
     /*works but it timed out in some case*/
-    public int maxAreaSolution01_timedOut(int[] height) {
+    public int maxAreaOnePointerTimedOut(int[] height) {
         int max=-1;
 
         //[1,8,6,2,5,4,8,3,7] //9 elements/length
@@ -19,13 +19,12 @@ public class ContainerWithMostWaterSolution {
             int withValue = j-i;
             int heigthValue=-1;
 
-
             if( height[i] < height[j] ){
                 heigthValue = height[i];
             }else{
                 heigthValue = height[j];
             }
-            int maxTmp=withValue*heigthValue;
+            int maxTmp = withValue * heigthValue;
 
             if( maxTmp > max ){
                 max = maxTmp;
@@ -55,7 +54,7 @@ public class ContainerWithMostWaterSolution {
     * * The idea is to use two pointers, one at the beginning and one at the end of the array.
     *  the pointer which points to the shorter line is moved inward, because the area is limited by the shorter line.
     * */
-    public int maxArea_twoPointers(int[] height) {
+    public int maxAreaTwoPointers(int[] height) {
         int max=-1;
 
         //[1,8,6,2,5,4,8,3,7] //9 elements/length
@@ -71,8 +70,7 @@ public class ContainerWithMostWaterSolution {
             int withValue = j-i;
             int heigthValue=-1;
 
-
-            if( height[i] < height[j] ){ // i is lower line
+            if( height[i] < height[j] ){ // i is the lower line
                 heigthValue = height[i];
                 i++;
             }else{ // j is the lower line
@@ -80,7 +78,7 @@ public class ContainerWithMostWaterSolution {
                 j--;
             }
 
-            int maxTmp=withValue*heigthValue;
+            int maxTmp = withValue * heigthValue;
 
             if( maxTmp > max ){
                 max = maxTmp;
