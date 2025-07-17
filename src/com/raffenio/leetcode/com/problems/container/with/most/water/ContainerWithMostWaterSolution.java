@@ -8,8 +8,8 @@ public class ContainerWithMostWaterSolution {
 
         //[1,8,6,2,5,4,8,3,7] //9 elements/length
         // 0 1 2 3 4 5 6 7 8  //
-        //                 i
-        //                    j
+        //             i
+        //                j
 
         int i=0; //the one i will try against all the other heigths
         int j=1; //the one i will validate against i

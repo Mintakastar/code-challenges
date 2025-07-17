@@ -24,6 +24,9 @@ public class ContainerWithMostWater {
         int result3 = solution.maxAreaOnePointerTimedOut(height3);
         System.out.println("Max area: " + result3 + "  <-> 705634720 As Expected output"); // Expected output: 705634720
 
+
+
+
         System.out.println("\nTwo pointer moving to the center ( the one line that is lower)");
 
         result = solution.maxAreaTwoPointers(height);
