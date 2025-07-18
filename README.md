@@ -28,4 +28,9 @@
 ### July 11 2025
 ### Description: [Leet Code: Sort Colors](https://leetcode.com/problems/container-with-most-water/)
 ### Solution:   [GitHub: Container With Most Water](https://github.com/Mintakastar/code-challenges/blob/main/src/com/raffenio/leetcode/com/problems/container/with/most/water/ContainerWithMostWaterSolution.java)
+
+## - Trapping Rain Water
+### July 18 2025
+### Description: [Leet Code: Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+### Solution:   [GitHub: Trapping Rain Water](TBD)
     
