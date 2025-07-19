@@ -39,6 +39,9 @@ Recently some friends and I have started to do code challenges together, so I wi
 ## Trapping Rain Water
 > Challenge: [Leet Code: Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) <br>
 > Solution:   [GitHub: Trapping Rain Water](https://github.com/Mintakastar/code-challenges/blob/main/src/com/raffenio/leetcode/com/problems/trapping/rain/water/TrappingRainWaterSolution.java) <br>
+> Video:   [YouTube Channel : Raffenio Dev](https://youtu.be/_t2QZQ2C5hk) <br>
+
+
 > July 18, 2025
 
 
