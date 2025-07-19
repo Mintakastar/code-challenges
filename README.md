@@ -1,4 +1,6 @@
 # Code-challenges
+
+---
 ## Here I will add code challenges that I'm doing from different pages.
 
 
@@ -16,21 +18,28 @@
 ### Container With Most Water [Leet Code: Sort Colors](https://leetcode.com/problems/container-with-most-water/)
 
 
+<br><br><br>
+
 
 # Code Challenges sessions with friends:
 
-## - Sort Colors
-### July 04 2025
-### Description: [Leet Code: Sort Colors](https://leetcode.com/problems/sort-colors/)
-### Solution:  [GitHub: Sort Colors](https://github.com/Mintakastar/code-challenges/blob/main/src/com/raffenio/leetcode/com/problems/sort/colors/Solution.java)
+---
+Recently some friends and I have started to do code challenges together, so I will add the challenges we do here.
 
-## - Container With Most Water
-### July 11 2025
-### Description: [Leet Code: Sort Colors](https://leetcode.com/problems/container-with-most-water/)
-### Solution:   [GitHub: Container With Most Water](https://github.com/Mintakastar/code-challenges/blob/main/src/com/raffenio/leetcode/com/problems/container/with/most/water/ContainerWithMostWaterSolution.java)
+##  Sort Colors
+> Description: [Leet Code: Sort Colors](https://leetcode.com/problems/sort-colors/) <br>
+> Solution:  [GitHub: Sort Colors](https://github.com/Mintakastar/code-challenges/blob/main/src/com/raffenio/leetcode/com/problems/sort/colors/Solution.java)<br>
+> July 04, 2025
 
-## - Trapping Rain Water
-### July 18 2025
-### Description: [Leet Code: Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
-### Solution:   [GitHub: Trapping Rain Water](TBD)
-    
+## Container With Most Water
+> Challenge: [Leet Code: Sort Colors](https://leetcode.com/problems/container-with-most-water/) <br>
+> Solution:  [GitHub: Container With Most Water](https://github.com/Mintakastar/code-challenges/blob/main/src/com/raffenio/leetcode/com/problems/container/with/most/water/ContainerWithMostWaterSolution.java)<br>
+> July 11, 2025
+
+## Trapping Rain Water
+> Challenge: [Leet Code: Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) <br>
+> Solution:   [GitHub: Trapping Rain Water](https://github.com/Mintakastar/code-challenges/blob/main/src/com/raffenio/leetcode/com/problems/trapping/rain/water/TrappingRainWaterSolution.java) <br>
+> July 18, 2025
+
+
+<br><br><br><br><br><br><br><br>
