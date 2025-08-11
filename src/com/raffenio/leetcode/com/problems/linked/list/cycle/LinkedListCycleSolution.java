@@ -28,7 +28,7 @@ public class LinkedListCycleSolution {
      * @param head
      * @return
      */
-    public boolean hasCycleFastest(ListNode head) {
+    public boolean hasCycleMapAndRecursive(ListNode head) {
         int pos=0;
 
         if(head == null){
@@ -50,15 +50,12 @@ public class LinkedListCycleSolution {
 //   4
 
     public int goToNext(ListNode node,Map<ListNode,String> map, int pos ){
-
-        //String key = node.val+"";
         String val = node.val+"";
         ListNode key = node;
 
         if(map.containsKey(key) /*&& map.get(key) == node*/){
             return pos;
         }else{
-            //map.put(key, node);
             map.put(key, val);
         }
 
@@ -68,8 +65,15 @@ public class LinkedListCycleSolution {
             // no cycle
             return -1;
         }
-        // return -2;
     }
+
+
+
+
+
+
+
+
 
 
 }
