@@ -17,6 +17,10 @@
 
 ### Container With Most Water [Leet Code: Sort Colors](https://leetcode.com/problems/container-with-most-water/)
 
+### Search Insert Position
+> Challenge: [Leet Code: Search Insert Position](https://leetcode.com/problems/search-insert-position) <br>
+> Solution:   [GitHub: Search Insert Position](https://github.com/Mintakastar/code-challenges/blob/main/src/com/raffenio/leetcode/com/problems/search/insert/position/SearchInsertPositionSolution.java) <br>
+
 
 <br><br><br>
 
