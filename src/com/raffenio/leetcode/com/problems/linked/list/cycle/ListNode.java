@@ -1,8 +1,9 @@
 package com.raffenio.leetcode.com.problems.linked.list.cycle;
 
-public      class ListNode {
+public class ListNode {
     int val;
     ListNode next;
+
     ListNode(int x) {
         val = x;
         next = null;
