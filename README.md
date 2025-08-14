@@ -21,6 +21,10 @@
 > Challenge: [Leet Code: Search Insert Position](https://leetcode.com/problems/search-insert-position) <br>
 > Solution:   [GitHub: Search Insert Position](https://github.com/Mintakastar/code-challenges/blob/main/src/com/raffenio/leetcode/com/problems/search/insert/position/SearchInsertPositionSolution.java) <br>
 
+### Lowest Common Ancestor Of A Binary Tree
+> Challenge: [Leet Code: Lowest Common Ancestor Of A Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) <br>
+> Solution:   [GitHub: Lowest Common Ancestor Of A Binary Tree](https://github.com/Mintakastar/code-challenges/blob/main/src/com/raffenio/leetcode/com/problems/lowest/common/ancestor/LowestCommonAncestorOfABinaryTreeSolution.java) <br>
+
 
 <br><br><br>
 
