@@ -3,7 +3,7 @@ package com.raffenio.leetcode.com.problems.best.time.to.buy.and.sell.stock.ii;
 public class BestTimeToBuyAndSellStockiiSolution {
 
     /**
-     *
+
     EXPLANATION
 
      buy when low the lowest before rise again
@@ -24,9 +24,11 @@ public class BestTimeToBuyAndSellStockiiSolution {
            -1+5-3+6    = 7
 
 
-         EXTRA WRONG CASES I got
-         prices = [1,2]   expected = 1
+     EXTRA WRONG CASES I got
+     prices = [1,2]   expected = 1
 
+     Runtime     0 ms   Beats 100.00%
+     Memory  45.60 MB   Beats  86.19%
 
      * @param prices
      * @return
