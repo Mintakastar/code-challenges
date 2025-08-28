@@ -55,5 +55,9 @@ Recently some friends and I have started to do code challenges together, so I wi
 > Solution:   [GitHub: Trapping Rain Water](https://github.com/Mintakastar/code-challenges/blob/main/src/com/raffenio/leetcode/com/problems/linked/list/cycle/LinkedListCycleSolution.java) <br>
 > July 25, 2025
 
+## best-time-to-buy-and-sell-stock-ii/
+> Challenge: [Leet Code: Best Time To Buy And Sell Stock ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) <br>
+> Solution:   [GitHub: Best Time To Buy And Sell Stock ii](https://github.com/Mintakastar/code-challenges/blob/main/src/com/raffenio/leetcode/com/problems/best/time/to/buy/and/sell/stock/ii/BestTimeToBuyAndSellStockiiSolution.java) <br>
+> Aug 29, 2025
 
 <br><br><br><br><br><br><br><br>
