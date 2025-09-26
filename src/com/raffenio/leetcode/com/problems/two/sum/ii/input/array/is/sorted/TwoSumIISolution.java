@@ -8,6 +8,9 @@ public class TwoSumIISolution {
     /*
     * Runtime 2    ms   Beats 92.76%
     * Memory 47.42 MB   Beats 27.47%
+    *
+    * Explanation video:
+    * https://www.youtube.com/shorts/chKk9gszrlU
     * */
     public int[] twoSumUsingTwoPointer(int[] numbers, int target) {
         /*//my test TWO pointer
