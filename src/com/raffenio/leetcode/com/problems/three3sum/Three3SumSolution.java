@@ -5,6 +5,8 @@ import java.util.*;
 public class Three3SumSolution {
     /**
      * This is the solution of https://leetcode.com/problems/3sum/
+     * video explanation
+     * https://www.youtube.com/shorts/pJXu6sejh70
      */
     public List<List<Integer>> threeSum(int[] nums) {
         /*
