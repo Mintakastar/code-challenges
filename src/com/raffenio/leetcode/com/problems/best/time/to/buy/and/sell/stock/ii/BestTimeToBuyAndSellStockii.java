@@ -22,4 +22,5 @@ public class BestTimeToBuyAndSellStockii {
         int[] prices6 = {1, 2};  //wrong case I got
         System.out.println("Test case 6, Expected: 1  Result: " + solution.maxProfit(prices6)); // Expected: 1
     }
+    //TODO search for other options in YT
 }
